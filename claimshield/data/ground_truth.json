@@ -1,0 +1,99 @@
+{
+  "planted_scenarios": [
+    {
+      "id": "SCENARIO-1",
+      "title": "Coordinated Billing Ring & Step-Change Upcoding (P101-P106)",
+      "providers": [
+        "P101",
+        "P102",
+        "P103",
+        "P105",
+        "P106"
+      ],
+      "excluded_tenant": "P104",
+      "owner_id": "OWN-77",
+      "address": "12 MG Road",
+      "change_point_date": "2026-02-16",
+      "spike_date": "2026-03-02",
+      "evidence_strength": 1.0,
+      "expected_category": "Coordinated Fraud Ring"
+    },
+    {
+      "id": "SCENARIO-2",
+      "title": "Phoenix Clinic Reincarnation (P090 -> P101)",
+      "closed_provider": "P090",
+      "new_provider": "P101",
+      "owner_id": "OWN-77",
+      "target_match_score": 0.88,
+      "expected_category": "Phoenix Entity Resolution"
+    },
+    {
+      "id": "SCENARIO-3",
+      "title": "Phantom DME Equipment Services",
+      "provider_id": "P301",
+      "expected_category": "Phantom Services"
+    },
+    {
+      "id": "SCENARIO-4",
+      "title": "Unbundled Diagnostic Imaging Panels",
+      "provider_id": "P302",
+      "expected_category": "Unbundling"
+    },
+    {
+      "id": "SCENARIO-5",
+      "title": "Duplicate Clinical Laboratory Billing",
+      "provider_id": "P303",
+      "expected_category": "Duplicate Billing"
+    },
+    {
+      "id": "SCENARIO-6",
+      "title": "Impossible Timing Ambulance Overlaps",
+      "provider_id": "P304",
+      "expected_category": "Impossible Timing"
+    },
+    {
+      "id": "SCENARIO-7",
+      "title": "Excessive Physician Office Utilization",
+      "provider_id": "P305",
+      "expected_category": "Excessive Utilization"
+    },
+    {
+      "id": "SCENARIO-8",
+      "title": "Home Health Skilled Nursing Upcoding",
+      "provider_id": "P306",
+      "expected_category": "Upcoding"
+    },
+    {
+      "id": "SCENARIO-9",
+      "title": "Excessive Daily Intensive Psychotherapy",
+      "provider_id": "P307",
+      "expected_category": "Excessive Utilization"
+    },
+    {
+      "id": "SCENARIO-10",
+      "title": "Duplicate Controlled Pharmacy Refills",
+      "provider_id": "P308",
+      "expected_category": "Duplicate Fills"
+    }
+  ],
+  "decoys": [
+    {
+      "id": "DECOY-1",
+      "provider_id": "P201",
+      "type": "High-Volume Legitimate Clinic",
+      "expected_verdict": "Cleared / Normal Profile"
+    },
+    {
+      "id": "DECOY-2",
+      "provider_id": "P202",
+      "type": "High-Acuity Geriatric Center",
+      "expected_verdict": "Cleared by Sicker Patient Mix"
+    },
+    {
+      "id": "DECOY-3",
+      "provider_id": "P203",
+      "type": "Eastgate Podiatry (Single Isolated Signal)",
+      "expected_verdict": "INSUFFICIENT_EVIDENCE (Safe-Fail Triggered)"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "dataset_name": "ClaimShield Nexus Synthetic FWA Benchmark",
+  "synthetic": true,
+  "phi_safe": true,
+  "version": "1.0.0",
+  "generation_date": "2026-10-08",
+  "claims_count": 50000,
+  "providers_count": 1200,
+  "members_count": 8000,
+  "facilities_count": 340,
+  "referrals_count": 6400,
+  "ownership_count": 1150,
+  "investigations_count": 180,
+  "planted_scenarios_count": 10
+}

@@ -1,0 +1,183 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* Exact Palette from Image 2 (Minimal Colors by Dumma Branding) */
+    --color-sky: #A0D2EB;
+    --color-ice: #E5EAF5;
+    --color-lilac: #D0BDF4;
+    --color-purple: #8458B3;
+    --color-slate: #494D5F;
+
+    /* Curated Neutral Soothing Theme (Blended with Dumma Ice & Lilac undertones) */
+    --bg-app: #EEF2F8;
+    --bg-app-subtle: #E8EDF6;
+    --bg-card: #FFFFFF;
+    --bg-card-subtle: #F6F8FD;
+    --border-card: #DFE5F2;
+    --text-primary: #1e293b;
+    --text-secondary: #494D5F;
+    --text-muted: #64748b;
+    
+    --primary-gradient: linear-gradient(135deg, #8458B3 0%, #A0D2EB 100%);
+    --hero-gradient: linear-gradient(135deg, #181c2b 0%, #2f3549 35%, #494D5F 65%, #6a4494 90%, #8458B3 100%);
+    --accent-gradient: linear-gradient(90deg, #8458B3 0%, #A0D2EB 100%);
+  }
+
+  .dark {
+    --bg-app: #0d111d;
+    --bg-app-subtle: #121727;
+    --bg-card: #151b2d;
+    --bg-card-subtle: #1a2238;
+    --border-card: #252e46;
+    --text-primary: #f8fafc;
+    --text-secondary: #cbd5e1;
+    --text-muted: #94a3b8;
+  }
+
+  body {
+    background-color: var(--bg-app);
+    background-image: radial-gradient(ellipse at 50% 0%, rgba(160, 210, 235, 0.12) 0%, rgba(208, 189, 244, 0.06) 45%, transparent 75%);
+    background-attachment: fixed;
+    color: var(--text-primary);
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    min-height: 100vh;
+    margin: 0;
+  }
+}
+
+/* Glass & Card Styling */
+.app-card {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border-card);
+  border-radius: 20px;
+  box-shadow: 0 2px 8px 0 rgba(73, 77, 95, 0.05), 0 4px 16px -2px rgba(132, 88, 179, 0.04);
+  transition: all 0.2s ease;
+}
+
+.app-card-hover:hover {
+  border-color: #D0BDF4;
+  box-shadow: 0 8px 24px -4px rgba(132, 88, 179, 0.12);
+  transform: translateY(-1px);
+}
+
+/* BuiltIn-Style Hero Atmosphere Banner */
+.builtin-hero-banner {
+  background: linear-gradient(135deg, #181c2b 0%, #2f3549 35%, #494D5F 65%, #6a4494 90%, #8458B3 100%);
+  border-radius: 24px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 12px 36px -8px rgba(73, 77, 95, 0.25);
+}
+
+.builtin-hero-banner::after {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -20%;
+  width: 500px;
+  height: 500px;
+  background: radial-gradient(circle, rgba(160, 210, 235, 0.25) 0%, rgba(208, 189, 244, 0.1) 50%, transparent 70%);
+  pointer-events: none;
+}
+
+/* Navigation Active Pill */
+.nav-active-pill {
+  background: linear-gradient(135deg, #8458B3 0%, #6d3ea6 100%);
+  color: #ffffff !important;
+  font-weight: 700;
+  box-shadow: 0 4px 14px -2px rgba(132, 88, 179, 0.45);
+}
+
+/* Badges */
+.badge-pink-pill {
+  background-color: #e11d48;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 3px 10px;
+  border-radius: 9999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.badge-green-pill {
+  background-color: #10b981;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 3px 12px;
+  border-radius: 9999px;
+}
+
+.badge-amber-pill {
+  background-color: #f59e0b;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 3px 12px;
+  border-radius: 9999px;
+}
+
+.badge-info-pill {
+  background-color: #8458B3;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 0.72rem;
+  padding: 3px 10px;
+  border-radius: 9999px;
+}
+
+/* Buttons */
+.btn-primary-gradient {
+  background: linear-gradient(135deg, #8458B3 0%, #6d3ea6 100%);
+  color: #ffffff;
+  font-weight: 700;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 14px -2px rgba(132, 88, 179, 0.4);
+}
+.btn-primary-gradient:hover {
+  opacity: 0.95;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px -2px rgba(132, 88, 179, 0.55);
+}
+
+.btn-cyan-gradient {
+  background: linear-gradient(135deg, #0284c7 0%, #0ea5e9 100%);
+  color: #ffffff;
+  font-weight: 800;
+  border-radius: 12px;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 14px -2px rgba(14, 165, 233, 0.4);
+}
+.btn-cyan-gradient:hover {
+  opacity: 0.95;
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px -2px rgba(14, 165, 233, 0.55);
+}
+
+/* Horizon Pill active */
+.horizon-active {
+  background: linear-gradient(135deg, #8458B3 0%, #6d3ea6 100%);
+  color: #ffffff !important;
+  font-weight: 700;
+  border-radius: 8px;
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #D0BDF4;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8458B3;
+}

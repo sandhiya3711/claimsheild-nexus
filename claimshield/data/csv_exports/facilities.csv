@@ -1,0 +1,341 @@
+facility_id,name,address,type
+F100,MG Metro Medical Complex,12 MG Road,Multi-Specialty Clinic
+F002,North Nathan DME Depot,5026 Clark Courts,DME Depot
+F003,New Meghan Independent Clinic,1483 Burgess View,Independent Clinic
+F004,East Jessicaborough DME Depot,6484 Contreras Cliff,DME Depot
+F005,Kennethfurt Ambulatory Surgical Center,359 Thompson Manors,Ambulatory Surgical Center
+F006,Lake Jeffery Diagnostic Imaging Center,5396 Bean Creek,Diagnostic Imaging Center
+F007,Port Stephenville Hospital Outpatient,2405 Thompson Skyway,Hospital Outpatient
+F008,West Jacobhaven Independent Clinic,3005 Daniel Locks,Independent Clinic
+F009,Clarkchester Skilled Nursing Facility,251 Mendoza Ville,Skilled Nursing Facility
+F010,Paulfurt Independent Clinic,8597 Watkins Orchard,Independent Clinic
+F011,East Nicholasside Independent Clinic,2397 Aaron Harbors,Independent Clinic
+F012,South Felicia DME Depot,7797 Richard Forks,DME Depot
+F013,Port Melvinburgh Hospital Outpatient,1102 Kimberly Squares,Hospital Outpatient
+F014,Lake Dawnfort Skilled Nursing Facility,3537 Patrick Rapid,Skilled Nursing Facility
+F015,West Caleb DME Depot,4901 Williams Summit,DME Depot
+F016,New Clinton Diagnostic Imaging Center,6897 Jackson Passage,Diagnostic Imaging Center
+F017,West Timothy Independent Clinic,6968 Andrew Plain,Independent Clinic
+F018,South Heatherfurt Independent Clinic,2961 Melanie Neck,Independent Clinic
+F019,Ericahaven Skilled Nursing Facility,2580 Wall Neck,Skilled Nursing Facility
+F020,Bonniemouth DME Depot,3075 Leslie Ways,DME Depot
+F021,North Tracy Diagnostic Imaging Center,1892 Joshua Walk,Diagnostic Imaging Center
+F022,Gibbschester Independent Clinic,591 Black Court,Independent Clinic
+F023,North Ryanfort Ambulatory Surgical Center,3443 Crystal Spur,Ambulatory Surgical Center
+F024,Richardbury Diagnostic Imaging Center,6713 Victoria Flats,Diagnostic Imaging Center
+F025,East Candacestad DME Depot,6214 West Fall,DME Depot
+F026,Garciaport Diagnostic Imaging Center,5360 Robinson Points,Diagnostic Imaging Center
+F027,North Audreyborough Hospital Outpatient,523 Philip Expressway,Hospital Outpatient
+F028,North Kathryntown Diagnostic Imaging Center,566 Jones Park,Diagnostic Imaging Center
+F029,Jacobburgh Ambulatory Surgical Center,660 Paul Unions,Ambulatory Surgical Center
+F030,South Samantha DME Depot,2464 Chase Ridges,DME Depot
+F031,Josephton Ambulatory Surgical Center,861 Lance Rapids,Ambulatory Surgical Center
+F032,East Thomasburgh Skilled Nursing Facility,6277 Brady Landing,Skilled Nursing Facility
+F033,Wesleymouth Skilled Nursing Facility,8704 Mckee View,Skilled Nursing Facility
+F034,Lake Carla Independent Clinic,2691 Eric Vista,Independent Clinic
+F035,Yvetteborough Hospital Outpatient,344 Dustin Islands,Hospital Outpatient
+F036,Danielview Diagnostic Imaging Center,3748 Martha Squares,Diagnostic Imaging Center
+F037,West Angela Hospital Outpatient,6979 Crystal Ville,Hospital Outpatient
+F038,Marilynchester Hospital Outpatient,1941 Rebecca Coves,Hospital Outpatient
+F039,Lake Jacob Ambulatory Surgical Center,7709 David Plains,Ambulatory Surgical Center
+F040,Hallview Ambulatory Surgical Center,8893 Scott Views,Ambulatory Surgical Center
+F041,Lake Kendra Ambulatory Surgical Center,2302 Flores Court,Ambulatory Surgical Center
+F042,Peterton Skilled Nursing Facility,111 Alan Trail,Skilled Nursing Facility
+F043,Harperhaven Diagnostic Imaging Center,7902 Rowe Road,Diagnostic Imaging Center
+F044,Lake Brendaport Ambulatory Surgical Center,4308 Macias Prairie,Ambulatory Surgical Center
+F045,Taylorview Independent Clinic,5390 Anna Summit,Independent Clinic
+F046,Lake Daniel DME Depot,8947 Fields Field,DME Depot
+F047,Debraland Diagnostic Imaging Center,1679 Morales Circles,Diagnostic Imaging Center
+F048,East Jasonfort Ambulatory Surgical Center,8174 Sarah Mission,Ambulatory Surgical Center
+F049,South Heatherville DME Depot,9459 Sandoval Squares,DME Depot
+F050,Theresaburgh Independent Clinic,2161 Anderson Extension,Independent Clinic
+F051,Lake Melissa Independent Clinic,8533 Davis Ridges,Independent Clinic
+F052,Port Lisa Independent Clinic,2436 Nunez Gardens,Independent Clinic
+F053,Lake Jimmy Independent Clinic,1446 Parker Bridge,Independent Clinic
+F054,New Coryport DME Depot,1653 Adams Hill,DME Depot
+F055,Erictown DME Depot,6716 Heather Gardens,DME Depot
+F056,Adrianport Diagnostic Imaging Center,1824 Jenkins Squares,Diagnostic Imaging Center
+F057,North Elizabethhaven Independent Clinic,3806 Sandoval Junction,Independent Clinic
+F058,Fritztown Diagnostic Imaging Center,3124 Garcia Park,Diagnostic Imaging Center
+F059,Jamesside DME Depot,5033 Phyllis Mountain,DME Depot
+F060,West Larryberg Diagnostic Imaging Center,7671 Roberson Course,Diagnostic Imaging Center
+F061,New Reginaburgh DME Depot,9779 Dalton Shores,DME Depot
+F062,North Dawnmouth Skilled Nursing Facility,8568 Flores Grove,Skilled Nursing Facility
+F063,Lake Becky Skilled Nursing Facility,4470 Austin Extensions,Skilled Nursing Facility
+F064,South Patrick Independent Clinic,5473 Reynolds Shore,Independent Clinic
+F065,Greeneburgh Ambulatory Surgical Center,6240 Hall Plain,Ambulatory Surgical Center
+F066,Davisview DME Depot,2479 Mary Road,DME Depot
+F067,New Erica Skilled Nursing Facility,660 Krista Inlet,Skilled Nursing Facility
+F068,West Desiree DME Depot,6408 Kelly Lane,DME Depot
+F069,Nunezhaven DME Depot,886 Joseph Field,DME Depot
+F070,Port Kevin Independent Clinic,3084 Stephanie Glens,Independent Clinic
+F071,South Nathan Hospital Outpatient,2442 Graham Ridge,Hospital Outpatient
+F072,Jessicahaven DME Depot,658 Parsons Lake,DME Depot
+F073,Gregorybury Independent Clinic,2752 Patrick River,Independent Clinic
+F074,New Mark Ambulatory Surgical Center,5384 Shannon Ford,Ambulatory Surgical Center
+F075,Loritown Hospital Outpatient,9473 Martin Trace,Hospital Outpatient
+F076,Chelseafort Ambulatory Surgical Center,8027 John Meadow,Ambulatory Surgical Center
+F077,Campbellborough Diagnostic Imaging Center,3176 Burke Villages,Diagnostic Imaging Center
+F078,Sullivanton DME Depot,9556 Ellis Unions,DME Depot
+F079,North Benjamin Ambulatory Surgical Center,7507 Hill Plaza,Ambulatory Surgical Center
+F080,Lewisview Independent Clinic,7525 Stevenson Ridge,Independent Clinic
+F081,Estradahaven Skilled Nursing Facility,4405 Jordan Radial,Skilled Nursing Facility
+F082,Stephenchester Skilled Nursing Facility,7306 Stephen Walk,Skilled Nursing Facility
+F083,Port Michellechester Hospital Outpatient,4676 Christopher Green,Hospital Outpatient
+F084,Odonnellland DME Depot,8529 Tabitha Forge,DME Depot
+F085,Lauramouth Diagnostic Imaging Center,5625 Matthew Neck,Diagnostic Imaging Center
+F086,Robertmouth Independent Clinic,4282 Denise Club,Independent Clinic
+F087,Acevedoville Diagnostic Imaging Center,8084 Henry Highway,Diagnostic Imaging Center
+F088,Annaburgh Skilled Nursing Facility,7576 Justin Fords,Skilled Nursing Facility
+F089,Cherylchester DME Depot,1681 Smith Harbors,DME Depot
+F090,Katherinetown DME Depot,5709 Harrington Lodge,DME Depot
+F091,South Matthew Skilled Nursing Facility,4406 Derek Station,Skilled Nursing Facility
+F092,Rachelside Hospital Outpatient,6087 Jones Village,Hospital Outpatient
+F093,West Laurie Ambulatory Surgical Center,516 Kevin Bypass,Ambulatory Surgical Center
+F094,West Brian Skilled Nursing Facility,2168 Amber Well,Skilled Nursing Facility
+F095,Pattersonburgh Hospital Outpatient,3821 Baxter Hollow,Hospital Outpatient
+F096,Lake Robertbury Ambulatory Surgical Center,1920 Berry Trace,Ambulatory Surgical Center
+F097,Villarrealton Hospital Outpatient,9118 Gonzalez Passage,Hospital Outpatient
+F098,Jeffreyland DME Depot,4944 Kayla Vista,DME Depot
+F099,South Andrea Independent Clinic,5795 Burke Corner,Independent Clinic
+F100,North Katherine Diagnostic Imaging Center,7514 Hernandez Ways,Diagnostic Imaging Center
+F101,Stevenshaven Ambulatory Surgical Center,9165 Blake Causeway,Ambulatory Surgical Center
+F102,South Mark Hospital Outpatient,8369 Brett Fields,Hospital Outpatient
+F103,Lewisport Independent Clinic,6613 Lewis Ranch,Independent Clinic
+F104,Richardfurt Skilled Nursing Facility,3292 Jesse Plain,Skilled Nursing Facility
+F105,Lake Sydneyborough Independent Clinic,3734 Nathan Springs,Independent Clinic
+F106,Daviston Hospital Outpatient,3355 Andrade Villages,Hospital Outpatient
+F107,South Kevinstad DME Depot,5898 Murray Meadow,DME Depot
+F108,Lake Robert Skilled Nursing Facility,9945 Paul Lock,Skilled Nursing Facility
+F109,Medinaton Independent Clinic,9322 Cervantes Greens,Independent Clinic
+F110,Burchstad Skilled Nursing Facility,8702 Sutton Run,Skilled Nursing Facility
+F111,West Mary Hospital Outpatient,8835 Taylor Knoll,Hospital Outpatient
+F112,South Kara Diagnostic Imaging Center,8938 Humphrey Ways,Diagnostic Imaging Center
+F113,Port Kristenfort Independent Clinic,8797 Owens Point,Independent Clinic
+F114,Campbellview Independent Clinic,6235 Andrew Way,Independent Clinic
+F115,Fisherstad Independent Clinic,1740 Kyle Mills,Independent Clinic
+F116,Jamesland DME Depot,2813 Logan Mountains,DME Depot
+F117,Lake Kimberly DME Depot,3807 Christy Centers,DME Depot
+F118,Lake Jennifershire DME Depot,2591 Rodgers Underpass,DME Depot
+F119,Watsonstad Skilled Nursing Facility,7047 John Highway,Skilled Nursing Facility
+F120,Matthewhaven Independent Clinic,4661 Pena Manors,Independent Clinic
+F121,Johnburgh Hospital Outpatient,6667 Michelle Curve,Hospital Outpatient
+F122,Jordanton Diagnostic Imaging Center,6486 Michelle Camp,Diagnostic Imaging Center
+F123,Stevenshire Skilled Nursing Facility,7001 Chad Street,Skilled Nursing Facility
+F124,Port Kyle Ambulatory Surgical Center,7767 Summers Club,Ambulatory Surgical Center
+F125,New Hannahhaven Diagnostic Imaging Center,2330 Bass Common,Diagnostic Imaging Center
+F126,New Cristianmouth DME Depot,5015 Kaitlyn Mission,DME Depot
+F127,Richardland Hospital Outpatient,1326 Cross Mountains,Hospital Outpatient
+F128,Colemanland Diagnostic Imaging Center,9205 Dixon Skyway,Diagnostic Imaging Center
+F129,West Jennifershire DME Depot,5205 Ross Run,DME Depot
+F130,Kelleyberg Independent Clinic,9831 Joy Station,Independent Clinic
+F131,West Richard Hospital Outpatient,1070 Smith Row,Hospital Outpatient
+F132,West Jenniferbury Ambulatory Surgical Center,2398 Adam Falls,Ambulatory Surgical Center
+F133,South Roberto Independent Clinic,7979 Wyatt Island,Independent Clinic
+F134,Marybury Independent Clinic,4072 Thompson Drives,Independent Clinic
+F135,West Brianland Ambulatory Surgical Center,2712 Nancy Place,Ambulatory Surgical Center
+F136,Bennettport DME Depot,6965 Parker Ways,DME Depot
+F137,East Andrea Ambulatory Surgical Center,9789 Jon Street,Ambulatory Surgical Center
+F138,Garymouth Independent Clinic,4172 Hancock Views,Independent Clinic
+F139,North Jacob Diagnostic Imaging Center,1255 Campbell Brook,Diagnostic Imaging Center
+F140,Lake Jeremy Independent Clinic,4625 Brewer Villages,Independent Clinic
+F141,Victoriaside Independent Clinic,6677 Gutierrez Way,Independent Clinic
+F142,Mendozaville Hospital Outpatient,9699 Christopher Ford,Hospital Outpatient
+F143,Charlesborough DME Depot,2587 Donald Passage,DME Depot
+F144,Jameschester Independent Clinic,7364 Nichols Common,Independent Clinic
+F145,Jasonhaven Independent Clinic,4613 Little Square,Independent Clinic
+F146,South Andreamouth Diagnostic Imaging Center,276 Mcdowell Valley,Diagnostic Imaging Center
+F147,Port Barbaraport DME Depot,2021 Sabrina Plaza,DME Depot
+F148,Riverahaven Skilled Nursing Facility,5198 Nicholas Key,Skilled Nursing Facility
+F149,East Amanda Skilled Nursing Facility,1781 Briana Inlet,Skilled Nursing Facility
+F150,New Patriciaton DME Depot,9904 Victoria Place,DME Depot
+F151,Port Jonathanfurt Ambulatory Surgical Center,3904 Jonathon Squares,Ambulatory Surgical Center
+F152,West Robin DME Depot,7280 Hannah Wells,DME Depot
+F153,Audreybury Diagnostic Imaging Center,2145 Mary Street,Diagnostic Imaging Center
+F154,East Bryanmouth Skilled Nursing Facility,7544 Thomas Fields,Skilled Nursing Facility
+F155,Christopherland Independent Clinic,1253 Cummings Corners,Independent Clinic
+F156,East Christopher DME Depot,5693 Cox Vista,DME Depot
+F157,North Malikton Diagnostic Imaging Center,771 Brian Inlet,Diagnostic Imaging Center
+F158,Alexmouth Ambulatory Surgical Center,4285 Emily Courts,Ambulatory Surgical Center
+F159,New Zoechester Hospital Outpatient,7743 Austin Hollow,Hospital Outpatient
+F160,Luischester Ambulatory Surgical Center,9684 Young Union,Ambulatory Surgical Center
+F161,Markport Independent Clinic,8083 Krista Streets,Independent Clinic
+F162,New Brittany Diagnostic Imaging Center,3780 Richard Ridges,Diagnostic Imaging Center
+F163,Matthewton Skilled Nursing Facility,1788 Parker Corner,Skilled Nursing Facility
+F164,North Robertville Hospital Outpatient,9984 Hendrix Light,Hospital Outpatient
+F165,North Brianhaven Skilled Nursing Facility,6040 Ernest Glen,Skilled Nursing Facility
+F166,Port Jody Independent Clinic,8202 Nichols Mall,Independent Clinic
+F167,East Gloria DME Depot,7185 Kelly Route,DME Depot
+F168,Jacksonfurt Ambulatory Surgical Center,1028 Blevins Burgs,Ambulatory Surgical Center
+F169,Lake Joseph DME Depot,1823 Julie Branch,DME Depot
+F170,Ashleyberg Diagnostic Imaging Center,4619 Vasquez Trace,Diagnostic Imaging Center
+F171,New Courtney Diagnostic Imaging Center,8420 Jade Estate,Diagnostic Imaging Center
+F172,North Brandon Diagnostic Imaging Center,6975 Durham Grove,Diagnostic Imaging Center
+F173,Christinaberg DME Depot,4216 Trujillo Point,DME Depot
+F174,Crosbyberg Diagnostic Imaging Center,1461 Davis Isle,Diagnostic Imaging Center
+F175,Lake Lisa Hospital Outpatient,1756 Rhodes Passage,Hospital Outpatient
+F176,Lake Sarahhaven DME Depot,8055 Smith Light,DME Depot
+F177,West Andreaburgh Independent Clinic,9697 Jose Manor,Independent Clinic
+F178,Melaniefort Ambulatory Surgical Center,3727 Hayes Unions,Ambulatory Surgical Center
+F179,Schwartzmouth Skilled Nursing Facility,7206 Jennifer Brooks,Skilled Nursing Facility
+F180,Monicahaven DME Depot,4454 Graham Spurs,DME Depot
+F181,Jamesville Hospital Outpatient,8093 Murphy Ville,Hospital Outpatient
+F182,Ryanberg Skilled Nursing Facility,9367 Zachary Overpass,Skilled Nursing Facility
+F183,Lunafurt Ambulatory Surgical Center,8602 Coleman Ridges,Ambulatory Surgical Center
+F184,North Jamie DME Depot,6368 Robert Crossroad,DME Depot
+F185,Port Brittany Hospital Outpatient,9957 Victoria Union,Hospital Outpatient
+F186,New Patrick Hospital Outpatient,9772 Olson Radial,Hospital Outpatient
+F187,Elizabethmouth DME Depot,1715 Karen Ridges,DME Depot
+F188,East Williamborough Skilled Nursing Facility,1655 Martinez Stravenue,Skilled Nursing Facility
+F189,Melodyhaven Hospital Outpatient,4009 Blair Points,Hospital Outpatient
+F190,Lake Ashley Diagnostic Imaging Center,9604 Jones Station,Diagnostic Imaging Center
+F191,West Steveshire DME Depot,9992 Susan Fort,DME Depot
+F192,Scottside Ambulatory Surgical Center,6551 Brianna Course,Ambulatory Surgical Center
+F193,Wellston DME Depot,753 Chandler Crossroad,DME Depot
+F194,Snyderside Diagnostic Imaging Center,7312 Lin Trace,Diagnostic Imaging Center
+F195,Briggshaven Ambulatory Surgical Center,9493 Davenport Isle,Ambulatory Surgical Center
+F196,Barkerberg Skilled Nursing Facility,710 Michael Shore,Skilled Nursing Facility
+F197,Port Norma Ambulatory Surgical Center,7174 Jennifer Alley,Ambulatory Surgical Center
+F198,New Jefferybury DME Depot,520 Clark Mews,DME Depot
+F199,Ronaldport Independent Clinic,9388 Washington Lodge,Independent Clinic
+F200,Shawfurt Independent Clinic,495 Nguyen Plaza,Independent Clinic
+F201,South Teresa DME Depot,5489 Andrews Village,DME Depot
+F202,Cookland Hospital Outpatient,4888 Michael Flats,Hospital Outpatient
+F203,South Marcusstad Ambulatory Surgical Center,564 Greene Estate,Ambulatory Surgical Center
+F204,Hillmouth DME Depot,7581 Miller Spur,DME Depot
+F205,Lake Daisyhaven Diagnostic Imaging Center,5975 Sutton Estate,Diagnostic Imaging Center
+F206,Wallaceville DME Depot,5736 Kristy River,DME Depot
+F207,Colemanmouth Diagnostic Imaging Center,4174 Joseph Lodge,Diagnostic Imaging Center
+F208,Kristinland Diagnostic Imaging Center,7407 Osborne Mews,Diagnostic Imaging Center
+F209,Oliviafurt Hospital Outpatient,5416 Moreno Meadow,Hospital Outpatient
+F210,Lake Alan Ambulatory Surgical Center,4411 Ariel Ford,Ambulatory Surgical Center
+F211,Jillburgh Independent Clinic,3530 Mary Locks,Independent Clinic
+F212,Port Benjamin Skilled Nursing Facility,9066 Johnston Run,Skilled Nursing Facility
+F213,East Sandra DME Depot,5373 David Harbors,DME Depot
+F214,West Kelsey DME Depot,6675 Timothy Loop,DME Depot
+F215,New Courtneyview Diagnostic Imaging Center,2918 Pena Causeway,Diagnostic Imaging Center
+F216,Port Cynthiahaven Ambulatory Surgical Center,1556 Joshua Underpass,Ambulatory Surgical Center
+F217,East Renee Diagnostic Imaging Center,5863 Charles Walk,Diagnostic Imaging Center
+F218,Monicamouth Skilled Nursing Facility,8918 Nicholas Pine,Skilled Nursing Facility
+F219,Rossfort DME Depot,3828 Sarah Islands,DME Depot
+F220,Josephtown Diagnostic Imaging Center,5110 Sanchez Drives,Diagnostic Imaging Center
+F221,Williamschester Hospital Outpatient,1581 Foley Summit,Hospital Outpatient
+F222,Schultzberg DME Depot,6752 Taylor Roads,DME Depot
+F223,Karafurt Diagnostic Imaging Center,8246 Hanson Circles,Diagnostic Imaging Center
+F224,New Hannahhaven DME Depot,3150 Ortiz Streets,DME Depot
+F225,Port Walter Ambulatory Surgical Center,3412 George Corner,Ambulatory Surgical Center
+F226,Taraborough Diagnostic Imaging Center,8053 Michelle Spring,Diagnostic Imaging Center
+F227,Gibsonmouth Diagnostic Imaging Center,5621 Christopher Estate,Diagnostic Imaging Center
+F228,Whiteview Ambulatory Surgical Center,6022 Sherri Land,Ambulatory Surgical Center
+F229,Woodshaven Independent Clinic,2861 Roberts Locks,Independent Clinic
+F230,South Anntown Diagnostic Imaging Center,360 Greer Corner,Diagnostic Imaging Center
+F231,New Williammouth Hospital Outpatient,3209 Brooks Cliff,Hospital Outpatient
+F232,New Erica Skilled Nursing Facility,5187 Evans Underpass,Skilled Nursing Facility
+F233,Cassandraburgh Skilled Nursing Facility,9282 Harris Courts,Skilled Nursing Facility
+F234,Hardinside Diagnostic Imaging Center,9273 Abigail Spring,Diagnostic Imaging Center
+F235,New Kimberly Skilled Nursing Facility,3014 Alvarado Mountains,Skilled Nursing Facility
+F236,Scottchester Ambulatory Surgical Center,1344 Gray Island,Ambulatory Surgical Center
+F237,South Andrewmouth Independent Clinic,1629 Swanson Greens,Independent Clinic
+F238,Lake Mary Hospital Outpatient,9897 Tracey Meadows,Hospital Outpatient
+F239,Sandovalville DME Depot,6729 Heath Union,DME Depot
+F240,East Jessica Diagnostic Imaging Center,2488 Saunders Walks,Diagnostic Imaging Center
+F241,South Richardbury DME Depot,5673 Grimes Key,DME Depot
+F242,West Brittney Skilled Nursing Facility,5896 Martinez Center,Skilled Nursing Facility
+F243,North Davidmouth Ambulatory Surgical Center,2279 Ford Walks,Ambulatory Surgical Center
+F244,Port Keith Ambulatory Surgical Center,1797 Allen Cliffs,Ambulatory Surgical Center
+F245,Heatherfort DME Depot,4915 Gerald Lakes,DME Depot
+F246,Haydenmouth Skilled Nursing Facility,9440 Scott Fork,Skilled Nursing Facility
+F247,Josephfort Hospital Outpatient,5405 Davis Place,Hospital Outpatient
+F248,Nancystad Independent Clinic,7350 Lewis Shores,Independent Clinic
+F249,Edwardberg Hospital Outpatient,4128 Levy Keys,Hospital Outpatient
+F250,Port Kimberlyshire Skilled Nursing Facility,2639 Tucker Rapid,Skilled Nursing Facility
+F251,Marissastad DME Depot,4585 Desiree Lodge,DME Depot
+F252,East Kristinhaven Hospital Outpatient,8201 Fuller Crest,Hospital Outpatient
+F253,South Gary Independent Clinic,3687 Judith Shoal,Independent Clinic
+F254,Scottport Independent Clinic,3800 Steven Glen,Independent Clinic
+F255,Romanmouth Ambulatory Surgical Center,3638 Jonathan Park,Ambulatory Surgical Center
+F256,Lebury Independent Clinic,303 Martinez Keys,Independent Clinic
+F257,Ashleyton Diagnostic Imaging Center,4092 Victor Haven,Diagnostic Imaging Center
+F258,Jenniferfurt Hospital Outpatient,8017 David Burg,Hospital Outpatient
+F259,New Makayla Ambulatory Surgical Center,6891 Andrew Mount,Ambulatory Surgical Center
+F260,Christinatown Skilled Nursing Facility,9131 Katherine Mill,Skilled Nursing Facility
+F261,South Steveview Skilled Nursing Facility,3249 Tracy Meadows,Skilled Nursing Facility
+F262,New Larry Ambulatory Surgical Center,3148 Raymond Squares,Ambulatory Surgical Center
+F263,North Kara Skilled Nursing Facility,9617 Lane Tunnel,Skilled Nursing Facility
+F264,Lake Andrea Ambulatory Surgical Center,9528 Wallace Springs,Ambulatory Surgical Center
+F265,West Whitney Ambulatory Surgical Center,4384 Tucker Garden,Ambulatory Surgical Center
+F266,Natashastad DME Depot,6063 Williams Centers,DME Depot
+F267,Andersonside Diagnostic Imaging Center,7166 Joseph Corner,Diagnostic Imaging Center
+F268,East Lauren Diagnostic Imaging Center,6072 Karen Ridge,Diagnostic Imaging Center
+F269,North Josephton Independent Clinic,5345 Bartlett Inlet,Independent Clinic
+F270,South Cynthia Skilled Nursing Facility,5950 Ryan Vista,Skilled Nursing Facility
+F271,West Timothy Hospital Outpatient,2303 Alexander Viaduct,Hospital Outpatient
+F272,Lake Josephtown Diagnostic Imaging Center,4145 Jane Walk,Diagnostic Imaging Center
+F273,Lake Brettmouth Skilled Nursing Facility,9585 Linda Trail,Skilled Nursing Facility
+F274,Bridgesside Independent Clinic,1683 Peter Burg,Independent Clinic
+F275,Port Matthew Skilled Nursing Facility,7894 Young Stream,Skilled Nursing Facility
+F276,Pachecoview Skilled Nursing Facility,5236 Donald Parkways,Skilled Nursing Facility
+F277,Pattersonshire Hospital Outpatient,9997 Christopher Crossroad,Hospital Outpatient
+F278,East Laura Independent Clinic,5807 Charles Road,Independent Clinic
+F279,West Michelle DME Depot,9177 Miller Coves,DME Depot
+F280,Clarkeside Independent Clinic,7723 Megan Valleys,Independent Clinic
+F281,Phillipmouth Diagnostic Imaging Center,9508 Stuart Roads,Diagnostic Imaging Center
+F282,Nicholasstad Hospital Outpatient,7640 Henry Spur,Hospital Outpatient
+F283,Joshualand Skilled Nursing Facility,7274 Abigail Union,Skilled Nursing Facility
+F284,Christopherfurt Ambulatory Surgical Center,9783 Lopez Brook,Ambulatory Surgical Center
+F285,Drewborough Ambulatory Surgical Center,1159 Hannah Forge,Ambulatory Surgical Center
+F286,Monroechester Independent Clinic,462 Deleon Plain,Independent Clinic
+F287,Michelleland Skilled Nursing Facility,7447 Reyes Dale,Skilled Nursing Facility
+F288,North Sophia Skilled Nursing Facility,1042 Stanley Gardens,Skilled Nursing Facility
+F289,East Mario Diagnostic Imaging Center,7909 Rachel Creek,Diagnostic Imaging Center
+F290,South Gary DME Depot,2522 Rhonda Branch,DME Depot
+F291,North William Hospital Outpatient,5906 Mora Mountain,Hospital Outpatient
+F292,Williamsshire Hospital Outpatient,4623 Victoria Shore,Hospital Outpatient
+F293,Grahamside Skilled Nursing Facility,4228 Kimberly Lane,Skilled Nursing Facility
+F294,Lake Cassandra DME Depot,551 Timothy Shoal,DME Depot
+F295,Barkerland DME Depot,9893 Lopez Court,DME Depot
+F296,Thomasport Ambulatory Surgical Center,7158 Hoffman Shoals,Ambulatory Surgical Center
+F297,Dakotafurt DME Depot,2284 Bradley Views,DME Depot
+F298,South Megan Ambulatory Surgical Center,3625 Flynn Glens,Ambulatory Surgical Center
+F299,Mcdonaldville DME Depot,7507 Richard Islands,DME Depot
+F300,New Erin Diagnostic Imaging Center,8921 Mueller Glen,Diagnostic Imaging Center
+F301,New Jenniferfort DME Depot,5091 Jerome Curve,DME Depot
+F302,Lisaville Diagnostic Imaging Center,3910 Fleming Crossing,Diagnostic Imaging Center
+F303,Lake Michelleside Skilled Nursing Facility,8422 Jacob Plains,Skilled Nursing Facility
+F304,New Peter Ambulatory Surgical Center,2463 Steven Extensions,Ambulatory Surgical Center
+F305,West Sandraland Skilled Nursing Facility,9715 Dana Locks,Skilled Nursing Facility
+F306,Port Nancy Diagnostic Imaging Center,211 Richard Alley,Diagnostic Imaging Center
+F307,East Daniel Skilled Nursing Facility,967 Andrea Pass,Skilled Nursing Facility
+F308,Richardsonview DME Depot,5971 Donald Ville,DME Depot
+F309,East Kendra Skilled Nursing Facility,2060 Gardner Throughway,Skilled Nursing Facility
+F310,Jamesland Hospital Outpatient,1142 Ricky Mission,Hospital Outpatient
+F311,Port Mark Skilled Nursing Facility,6878 Timothy Junction,Skilled Nursing Facility
+F312,Nicholasborough DME Depot,2741 Martinez Wells,DME Depot
+F313,Lake Christopher DME Depot,3288 Rebecca Track,DME Depot
+F314,East Rhondabury Independent Clinic,9955 Christopher Isle,Independent Clinic
+F315,Williamshire Independent Clinic,3069 Knight Bridge,Independent Clinic
+F316,West Lindsey Hospital Outpatient,8209 Garcia Park,Hospital Outpatient
+F317,Port Toddtown DME Depot,2057 Antonio Loop,DME Depot
+F318,Solomonshire Diagnostic Imaging Center,1559 Jones Glen,Diagnostic Imaging Center
+F319,Smithland Hospital Outpatient,6711 King Valleys,Hospital Outpatient
+F320,Port Cynthia Skilled Nursing Facility,6447 Clark Mission,Skilled Nursing Facility
+F321,Hansenville Ambulatory Surgical Center,6347 Gallagher Lodge,Ambulatory Surgical Center
+F322,Marshallchester DME Depot,7872 Albert Harbors,DME Depot
+F323,West Mark Independent Clinic,5724 Rhodes Skyway,Independent Clinic
+F324,Port Christopher Independent Clinic,1670 Wolf Cape,Independent Clinic
+F325,East Gregory Diagnostic Imaging Center,5918 Goodman Stravenue,Diagnostic Imaging Center
+F326,Cookfort Independent Clinic,7151 Vang Junctions,Independent Clinic
+F327,Port Aaronside Diagnostic Imaging Center,8286 Prince Walks,Diagnostic Imaging Center
+F328,New Kevinmouth Hospital Outpatient,3123 Megan Plains,Hospital Outpatient
+F329,West Paulmouth Diagnostic Imaging Center,6676 Martin Center,Diagnostic Imaging Center
+F330,Wheelershire Independent Clinic,3813 Roth Stravenue,Independent Clinic
+F331,Leahchester Diagnostic Imaging Center,1436 Daniel Center,Diagnostic Imaging Center
+F332,Ashleyshire Diagnostic Imaging Center,7501 Myers Mission,Diagnostic Imaging Center
+F333,Kellystad Hospital Outpatient,8683 Peterson Drive,Hospital Outpatient
+F334,Hernandezfurt Diagnostic Imaging Center,434 Kenneth Junction,Diagnostic Imaging Center
+F335,Sherrytown Skilled Nursing Facility,1097 Bethany Rest,Skilled Nursing Facility
+F336,Suefurt Skilled Nursing Facility,1069 Harmon Branch,Skilled Nursing Facility
+F337,Grayshire DME Depot,6213 Sandra Run,DME Depot
+F338,Joneshaven Hospital Outpatient,2860 Sarah Tunnel,Hospital Outpatient
+F339,Johnsonmouth Hospital Outpatient,8769 Zamora Mill,Hospital Outpatient
+F340,Taylorborough Hospital Outpatient,176 Thomas Fork,Hospital Outpatient
