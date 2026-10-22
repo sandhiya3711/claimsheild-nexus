@@ -612,3 +612,10 @@ SOFTWARE.
 <div align="center">
   <sub>Built with ❤️ by the ClaimShield Nexus Team for responsible, explainable, and human-centered healthcare integrity.</sub>
 </div>
+
+
+
+
+https://github.com/user-attachments/assets/21299653-7479-47ff-9fea-97778abe280c
+
+
